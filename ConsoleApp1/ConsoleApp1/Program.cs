@@ -14,7 +14,6 @@ namespace ConsoleApp1
            //was created in vs
            //code to call feature1
            //code to call feature2
-           //code to feature1
            //code to call feature3
         }
     }
